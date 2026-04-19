@@ -6,6 +6,8 @@ This repository documents my journey of building strong fundamentals in Data Sci
 
 ## Current Progress
 
+Structured learning repository covering core data science fundamentals (NumPy, Pandas, visualization, ML)
+
 ### NumPy
 - Array creation and manipulation  
 - Indexing and slicing  
